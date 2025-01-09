@@ -46,3 +46,6 @@ participant = ["leo", "kiki", "eden"]
 completion = ["eden", "kiki"]
 
 print(solution(participant,completion))
+
+
+
