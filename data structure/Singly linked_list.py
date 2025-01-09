@@ -59,3 +59,4 @@ playlist.play()
 print("\n곡 삭제:")
 playlist.delete_song("Song B")
 playlist.play()
+ 
